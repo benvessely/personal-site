@@ -1,2 +1,2 @@
 # personal-site
-Personal Website to showcase my experience, projects, etc. 
+Personal website to showcase my experience, projects, etc. 
